@@ -11,15 +11,6 @@ Dibangun dengan **Flask** (backend) dan UI **web pixel-art retro** (frontend), s
 
 ---
 
-## 1. Identitas
-
-- Nama : Nabilah Bunga Sulistia
-- NRP  : 5025241073
-- Mata Kuliah : Teori Bahasa Formal dan Otomata
-- Program Studi : Informatika, Institut Teknologi Sepuluh Nopember (ITS)
-
----
-
 ## 2. Diagram DFA (sesuai soal)
 
 <img width="435" height="186" alt="image" src="https://github.com/user-attachments/assets/f3140af7-3a42-4924-9f38-8c45e3627ed9" />
