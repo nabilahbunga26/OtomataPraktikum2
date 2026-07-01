@@ -22,14 +22,8 @@ Dibangun dengan **Flask** (backend) dan UI **web pixel-art retro** (frontend), s
 
 ## 2. Diagram DFA (sesuai soal)
 
-```
-            0
-   S ───────────────► A ──────0──────► C ──┐0,1
-   │                  │ ▲                  │ (loop)
-   │1                 │1│0                 └──┘
-   │                  ▼ │
-   └───────────────► (B) ◄────1 (self-loop)
-```
+<img width="435" height="186" alt="image" src="https://github.com/user-attachments/assets/f3140af7-3a42-4924-9f38-8c45e3627ed9" />
+
 
 - **Q (himpunan state)**: `{S, A, B, C}`
 - **Σ (alfabet)**: `{0, 1}`
